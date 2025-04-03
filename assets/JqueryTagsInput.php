@@ -17,12 +17,12 @@ class JqueryTagsInput extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $js = ['jquery.tagsinput.js'];
+    public $js = ['dist/jquery.tagsinput.min.js'];
 
     /**
      * @inheritdoc
      */
-    public $css = ['jquery.tagsinput.css'];
+    public $css = ['dist/jquery.tagsinput.min.css'];
 
     /**
      * @inheritdoc
